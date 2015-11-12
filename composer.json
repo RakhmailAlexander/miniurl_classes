@@ -1,0 +1,12 @@
+{
+    "name": "rakhmailalexander/miniurl_classes",
+    "description": "Classes for miniurl",
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
